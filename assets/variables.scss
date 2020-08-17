@@ -1,3 +1,11 @@
+/* Twitter Responsive Media Queries Breakpoints */
+
+1280px => Sidebar elemanlarının tamamının yazıları devre dışı kalıyor. Tweet butonundaki yazı devre dışı kaldığı için yerine tweet ikonu geliyor.
+1095px => Explore elemanlarının genişlik değerleri azalıyor.
+1005px => Explore komponenti tamamen devre dışı.
+710px => Timeline komponentinde border-right ve Tweet box altındaki iconlardan bazıları devre dışı. Genişlik %100 oluyor.
+500px => Sidebar iconlarının bazıları devre dışı kalıyor, geri kalan iconlar ekranın altına kalıcı yerleşiyor. Tweetbox komple devre dışı kalıyor ve site mobil hale dönüyor.
+
 /* Most used Font type, size, weight*/
 
 $fontSize: 16px;
